@@ -2,7 +2,7 @@
 management.endpoints.web.exposure.include=*
 
 #DataSource
-spring.datasource.url=jdbc:mysql://localhost:3306/Epayroll?createDatabaseIfNotExist=true
+spring.datasource.url=jdbc:mysql://localhost:3306/e_payroll?createDatabaseIfNotExist=true
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.username=root
 spring.datasource.password=Bhavyasql@123
